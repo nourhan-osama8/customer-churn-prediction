@@ -59,5 +59,5 @@ The dataset used is publicly available:
 ---
 
 ## **Author**
-**Nourhan Ahmed**  
+**Nourhan Osama**  
 [GitHub Profile](https://github.com/nourhan-osama8)  
